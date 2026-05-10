@@ -1,0 +1,101 @@
+Ticker,Total_ESG,Environmental,Social,Governance,Sum_sub,Diff,Anomaly,Country,Sector,Industry,MarketCap,TotalRevenue,NetIncome,ReturnOnEquity,DebtToEquity,CurrentRatio,QuickRatio,Region,Yahoo_Finance_Name
+LIN,11.63,8.23,1.31,2.09,11.63,0.0,False,United Kingdom,Basic Materials,Specialty Chemicals,211426623488,33244999680,6713999872,0.17312999,64.823,0.926,0.698,Europe,Linde plc
+ALV,15.24,6.26,4.88,4.1,15.24,0.0,False,Sweden,Consumer Cyclical,Auto Parts,8961631232,10613999616,752000000,0.31007,85.58,0.953,0.624,Europe,"Autoliv, Inc."
+ACN,12.88,2.54,6.35,3.99,12.88,0.0,False,Ireland,Technology,Information Technology Services,147834912768,69672976384,7678432768,0.25509,25.38,1.42,1.301,Europe,Accenture plc
+ETN,19.8,7.44,8.57,3.8,19.81,-0.0100000000000015,False,Ireland,Industrials,Specialty Industrial Machinery,145325686784,25988999168,3924999936,0.20733,62.391,1.24,0.686,Europe,Eaton Corporation plc
+MDT,16.27,2.35,9.01,4.91,16.27,0.0,False,Ireland,Healthcare,Medical Devices,122855645184,34200000512,4659999744,0.09741,59.437,2.014,1.248,Europe,Medtronic plc
+SPOT,19.03,1.18,10.17,7.69,19.04,-0.009999999999998,False,Luxembourg,Communication Services,Internet Content & Information,138183884800,16613000192,806000000,0.14807999,36.97,1.473,1.215,Europe,Spotify Technology S.A.
+CB,20.12,2.08,9.53,8.5,20.11,0.0100000000000015,False,Switzerland,Financial Services,Insurance - Property & Casualty,106932723712,57486000128,9198000128,0.13627,28.978,0.388,0.184,Europe,Chubb Limited
+TT,13.12,5.72,4.09,3.31,13.12,0.0,False,Ireland,Industrials,Building Products & Equipment,92526338048,20750100480,2874400000,0.39078,58.751,1.104,0.713,Europe,Trane Technologies plc
+MELI,17.7,3.0,9.71,5.0,17.71,-0.0100000000000015,False,Uruguay,Consumer Cyclical,Internet Retail,102661169152,24096000000,2052999936,0.43825,157.71,1.198,0.499,Other,"MercadoLibre, Inc."
+PDD,24.41,7.71,8.88,7.82,24.41,0.0,False,Ireland,Consumer Cyclical,Internet Retail,182396174336,409621528576,97922613248,0.31801,3.03,2.357,1.99,Europe,PDD Holdings Inc.
+CRH,16.55,10.1,3.84,2.6,16.54,0.0100000000000015,False,Ireland,Basic Materials,Building Materials,78743953408,36346998784,3264000000,0.14782,74.473,1.745,1.103,Europe,CRH plc
+JCI,14.97,7.82,4.03,3.12,14.970000000000002,-1.7763568394002505e-15,False,Ireland,Industrials,Building Products & Equipment,71216766976,23402000384,1990000000,0.11653,68.319,0.959,0.558,Europe,Johnson Controls International plc
+AON,13.64,0.04,6.21,7.39,13.64,0.0,False,Ireland,Financial Services,Insurance Brokers,74736181248,16752000000,2603000064,0.37410998,224.725,1.028,0.23,Europe,Aon plc
+TEL,15.32,7.16,5.17,2.98,15.31,0.0099999999999997,False,Ireland,Technology,Electronic Components,65886466048,16581000192,1455000064,0.11512,48.355,1.525,0.823,Europe,TE Connectivity plc
+SE,23.34,1.2,12.87,9.27,23.34,3.552713678800501e-15,False,Singapore,Consumer Cyclical,Internet Retail,94758707200,19379245056,1195142016,0.14519,42.847,1.551,0.793,Asia-Pacific,Sea Limited
+NXPI,16.03,9.43,3.66,2.93,16.02,0.0100000000000015,False,Netherlands,Technology,Semiconductors,54040764416,12122000384,2148000000,0.22695999,115.519,1.736,0.958,Europe,NXP Semiconductors N.V.
+RACE,21.34,8.86,6.71,5.77,21.34,0.0,False,Italy,Consumer Cyclical,Auto Manufacturers,70959480832,6958282752,1594297984,0.48016998,89.023,1.992,1.4,Europe,Ferrari N.V.
+GRMN,21.23,6.98,10.96,3.28,21.22,0.009999999999998,False,Switzerland,Technology,Scientific & Technical Instruments,47929069568,6758245888,1568435968,0.20733,2.335,3.012,1.871,Europe,Garmin Ltd.
+ALC,16.54,3.25,8.91,4.38,16.54,0.0,False,Switzerland,Healthcare,Medical Instruments & Supplies,37157724160,10024999936,1073000000,0.04982,23.773,2.601,1.413,Europe,Alcon Inc.
+WTW,16.2,0.27,8.49,7.43,16.189999999999998,0.0100000000000015,False,United Kingdom,Financial Services,Insurance Brokers,32205469696,9808000000,137000000,0.01671,72.555,1.125,0.331,Europe,Willis Towers Watson Public Limited Company
+G,13.82,3.53,6.54,3.74,13.81,0.0099999999999997,False,Bermuda,Technology,Information Technology Services,6873211904,4929034240,538302016,0.21863002,59.212,1.533,1.389,Other,Genpact Limited
+FER,17.84,8.13,7.66,2.06,17.85,-0.0100000000000015,False,Netherlands,Industrials,Engineering & Construction,45521952768,9349000192,3347000064,0.53858,135.106,0.943,0.84,Europe,Ferrovial SE
+ACGL,18.36,1.5,8.26,8.6,18.36,0.0,False,Bermuda,Financial Services,Insurance - Diversified,32287287296,19156000768,3694000128,0.17087,11.84,0.584,0.291,Other,Arch Capital Group Ltd.
+TEAM,17.19,1.49,8.9,6.81,17.2,-0.009999999999998,False,Australia,Technology,Software - Application,39998001152,5215304192,-256687008,-0.21584,92.099,1.223,1.168,Asia-Pacific,Atlassian Corporation
+CYBR,17.97,5.34,7.65,4.98,17.97,0.0,False,Israel,Technology,Software - Infrastructure,24781660160,1200116992,-165372992,-0.1035,52.582,2.314,2.208,Africa/Middle East,CyberArk Software Ltd.
+SW,18.34,13.42,2.41,2.51,18.34,0.0,False,Ireland,Consumer Cyclical,Packaging & Containers,21615978496,30805999616,352000000,0.02901,78.384,1.446,0.766,Europe,Smurfit Westrock Plc
+TEVA,15.66,3.06,9.24,3.36,15.66,0.0,False,Israel,Healthcare,Drug Manufacturers - Specialty & Generic,22929192960,16627999744,-157000000,-0.02418,256.687,1.064,0.483,Africa/Middle East,Teva Pharmaceutical Industries Limited
+AER,13.36,1.37,5.98,6.0,13.35,0.009999999999998,False,Ireland,Industrials,Rental & Leasing Services,21473845248,7984195072,2948321024,0.16865,257.708,1.395,1.031,Europe,AerCap Holdings N.V.
+TEF,17.36,1.57,9.2,6.59,17.36,0.0,False,Spain,Communication Services,Telecom Services,29661450240,41536000000,-797000000,-0.012949999,213.097,0.846,0.641,Europe,"Telefónica, S.A."
+CCEP,16.1,8.75,5.47,1.87,16.09,0.0100000000000015,False,United Kingdom,Consumer Defensive,Beverages - Non-Alcoholic,40951095296,20884000768,1534000000,0.17929001,141.235,0.834,0.564,Europe,Coca-Cola Europacific Partners PLC
+PNR,28.23,12.46,10.0,5.77,28.23,0.0,False,United Kingdom,Industrials,Specialty Industrial Machinery,17834080256,4099800064,609400000,0.17153999,43.655,1.447,0.748,Europe,Pentair plc
+AMCR,14.31,11.25,1.07,1.98,14.3,0.0099999999999997,False,Switzerland,Consumer Cyclical,Packaging & Containers,18813132800,15009000448,510000000,0.066020004,130.417,1.207,0.609,Europe,Amcor plc
+APTV,12.89,4.35,4.56,3.97,12.88,0.0099999999999997,False,Switzerland,Consumer Cyclical,Auto Parts,18021801984,19793999872,1013000000,0.094639994,83.689,1.762,1.2,Europe,Aptiv PLC
+ALLE,20.1,11.22,5.3,3.58,20.1,0.0,False,Ireland,Industrials,Security & Protection Services,15236898816,3876600064,626200000,0.38994,124.847,2.303,1.557,Europe,Allegion plc
+EG,19.28,1.44,7.57,10.28,19.29,-0.009999999999998,False,Bermuda,Financial Services,Insurance - Reinsurance,14643661824,17716000768,798000000,0.0552,23.89,0.393,0.277,Other,"Everest Group, Ltd."
+ESLT,39.11,13.62,17.89,7.6,39.11,0.0,False,Israel,Industrials,Aerospace & Defense,23185752064,7516222976,401884000,0.115609996,31.304,1.286,0.768,Africa/Middle East,Elbit Systems Ltd.
+TME,21.08,4.6,9.29,7.19,21.08,0.0,False,China,Communication Services,Internet Content & Information,33748221952,30271000576,10240000000,0.14258,4.509,1.872,1.572,Asia-Pacific,Tencent Music Entertainment Group
+GRAB,22.87,5.79,10.24,6.84,22.87,0.0,False,Singapore,Technology,Software - Application,22991826944,3072000000,111000000,0.00882,30.074,1.884,1.744,Asia-Pacific,Grab Holdings Limited
+FUTU,27.53,2.48,9.68,15.36,27.52,0.0100000000000015,False,Hong Kong,Financial Services,Capital Markets,22767874048,16100261888,7912297984,0.26268,29.43,1.167,1.16,Asia-Pacific,Futu Holdings Limited
+CNH,13.7,3.63,6.11,3.96,13.7,0.0,False,United Kingdom,Industrials,Farm & Heavy Construction Machinery,13058561024,18069000192,823000000,0.10777,354.327,5.105,4.159,Europe,CNH Industrial N.V.
+HTHT,27.36,11.92,8.01,7.43,27.36,0.0,False,China,Consumer Cyclical,Lodging,11626778624,24285999104,3760000000,0.30476,307.24,0.808,0.699,Asia-Pacific,H World Group Limited
+MNDY,18.9,1.24,11.34,6.32,18.9,0.0,False,Israel,Technology,Software - Application,9360714752,1100240000,39977000,0.03803,10.585,2.636,2.533,Africa/Middle East,monday.com Ltd.
+BZ,20.28,1.44,10.85,7.99,20.28,0.0,False,China,Communication Services,Internet Content & Information,9646741504,7760890880,2152512000,0.13482,1.185,3.924,3.865,Asia-Pacific,Kanzhun Limited
+VIPS,23.35,7.6,7.63,8.12,23.35,0.0,False,China,Consumer Cyclical,Internet Retail,9268400128,105974685696,6924612096,0.1743,17.789,1.256,1.09,Asia-Pacific,Vipshop Holdings Limited
+LI,24.03,9.52,6.78,7.73,24.03,0.0,False,China,Consumer Cyclical,Auto Manufacturers,22153207808,143320317952,8080094208,0.11825,22.975,1.735,1.503,Asia-Pacific,Li Auto Inc.
+XP,22.98,2.53,8.72,11.74,22.99,-0.0100000000000015,False,Cayman Islands,Financial Services,Capital Markets,8718317568,16811192320,4920602112,0.23323,774.535,1.279,1.247,Other,XP Inc.
+ICL,22.25,11.15,5.81,5.29,22.25,0.0,False,Israel,Basic Materials,Agricultural Inputs,8193425408,6952999936,367000000,0.06889,46.506,1.746,0.879,Africa/Middle East,ICL Group Ltd
+BVN,35.42,17.67,12.05,5.7,35.42,0.0,False,Peru,Basic Materials,Other Precious Metals & Mining,6487497216,1307905024,506356992,0.1496,23.107,2.544,2.26,Other,Compañía de Minas Buenaventura S.A.A.
+TAL,17.64,0.31,9.9,7.42,17.630000000000003,0.009999999999998,False,China,Consumer Defensive,Education & Training Services,6748506112,2411045120,104471000,0.02881,10.471,2.245,1.902,Asia-Pacific,TAL Education Group
+QFIN,19.75,0.34,10.63,8.79,19.76,-0.009999999999998,False,China,Financial Services,Credit Services,3338531584,18759002112,7253667840,0.30973,28.405,3.477,0.804,Asia-Pacific,"Qfin Holdings, Inc."
+ATHM,17.04,0.97,9.54,6.53,17.04,0.0,False,China,Communication Services,Internet Content & Information,3329453568,6769906176,1469428992,0.05816,0.132,7.775,7.66,Asia-Pacific,Autohome Inc.
+APP,15.55,0.39,9.91,5.25,15.55,0.0,False,United States,Communication Services,Advertising Agencies,202716561408,5737590784,2513516032,2.53772,300.821,2.736,2.536,North America,AppLovin Corporation
+CRWD,18.18,0.32,12.1,5.76,18.18,0.0,False,United States,Technology,Software - Infrastructure,121625403392,4341102080,-296985984,-0.089209996,21.36,1.88,1.686,North America,"CrowdStrike Holdings, Inc."
+TMO,11.04,1.31,4.45,5.29,11.05,-0.0100000000000015,False,United States,Healthcare,Diagnostics & Research,203502714880,43212001280,6584000000,0.13418001,69.618,1.933,1.291,North America,Thermo Fisher Scientific Inc.
+WSM,13.08,3.27,8.07,1.74,13.08,0.0,False,United States,Consumer Cyclical,Specialty Retail,22575056896,7829758976,1126804992,0.51219004,64.858,1.503,0.624,North America,"Williams-Sonoma, Inc."
+BX,22.54,2.83,7.98,11.73,22.54,0.0,False,United States,Financial Services,Asset Management,191976488960,13505741824,2863803904,0.2882,67.125,0.921,0.87,North America,Blackstone Inc.
+DD,24.74,15.42,5.79,3.53,24.74,-3.552713678800501e-15,False,United States,Basic Materials,Specialty Chemicals,33317285888,12606999552,71000000,0.00461,32.667,1.411,0.864,North America,"DuPont de Nemours, Inc."
+KMB,24.26,10.73,8.19,5.35,24.270000000000003,-0.0100000000000015,False,United States,Consumer Defensive,Household & Personal Products,40291356672,19718000640,2449999872,1.84203,518.746,0.775,0.368,North America,Kimberly-Clark Corporation
+V,13.81,2.57,8.75,2.49,13.81,0.0,False,United States,Financial Services,Credit Services,663588700160,38892998656,20060000256,0.51755,65.017,1.115,0.781,North America,Visa Inc.
+CPT,13.97,3.5,3.81,6.66,13.97,0.0,False,United States,Real Estate,REIT - Residential,10941719552,1570124032,155651008,0.034140002,82.154,0.037,0.028,North America,Camden Property Trust
+HUM,14.39,0.13,11.07,3.19,14.39,0.0,False,United States,Healthcare,Healthcare Plans,33075953664,123109998592,1576000000,0.09034,70.626,1.952,1.522,North America,Humana Inc.
+EL,20.21,5.51,9.04,5.66,20.21,0.0,False,United States,Consumer Defensive,Household & Personal Products,36316786688,14325999616,-1132999936,-0.24687,244.942,1.301,0.819,North America,The Estée Lauder Companies Inc.
+ADP,14.69,4.01,6.94,3.74,14.69,0.0,False,United States,Technology,Software - Application,113939521536,20560900096,4079699968,0.76003,148.765,1.048,0.276,North America,"Automatic Data Processing, Inc."
+CNC,11.1,0.08,8.61,2.42,11.11,-0.0099999999999997,False,United States,Healthcare,Healthcare Plans,17322260480,159673008128,2054000000,0.07442,63.909,1.098,1.054,North America,Centene Corporation
+NEM,20.28,8.4,8.81,3.07,20.28,0.0,False,United States,Basic Materials,Gold,99706273792,20583999488,6227999744,0.20285,23.561,2.227,1.561,North America,Newmont Corporation
+CNP,28.15,13.98,10.44,3.73,28.15,-3.552713678800501e-15,False,United States,Utilities,Utilities - Regulated Electric,25879564288,8981999616,936000000,0.08759,196.188,0.793,0.538,North America,"CenterPoint Energy, Inc."
+LEG,12.32,6.81,3.15,2.36,12.32,1.7763568394002505e-15,False,United States,Consumer Cyclical,"Furnishings, Fixtures & Appliances",1200563200,4238200064,142200000,0.1866,228.511,2.172,1.179,North America,"Leggett & Platt, Incorporated"
+APA,38.67,23.15,9.16,6.36,38.67,0.0,False,United States,Energy,Oil & Gas E&P,8057351168,9804000256,1080999936,0.20436001,67.565,0.805,0.568,North America,APA Corporation
+GLPI,14.11,6.03,3.25,4.82,14.1,0.009999999999998,False,United States,Real Estate,REIT - Specialty,12687260672,1565067008,717864000,0.15686,145.886,3.018,2.869,North America,"Gaming and Leisure Properties, Inc."
+VRTX,20.32,2.14,13.87,4.31,20.32,3.552713678800501e-15,False,United States,Healthcare,Biotechnology,106866188288,11418800128,3637600000,0.22771,8.893,2.52,2.0,North America,Vertex Pharmaceuticals Incorporated
+NVDA,12.45,3.5,4.08,4.87,12.45,0.0,False,United States,Technology,Semiconductors,4460857262080,165217992704,86597001216,1.09417,10.584,4.214,3.488,North America,NVIDIA Corporation
+SNPS,16.71,4.31,8.95,3.46,16.72,-0.009999999999998,False,United States,Technology,Software - Infrastructure,83148537856,6435303936,1166705024,0.065019995,54.828,1.625,1.396,North America,"Synopsys, Inc."
+ORCL,15.41,3.84,6.67,4.9,15.41,0.0,False,United States,Technology,Software - Infrastructure,830464393216,59017998336,12440999936,0.69241995,452.534,0.618,0.498,North America,Oracle Corporation
+ARE,15.98,3.97,4.64,7.37,15.98,0.0,False,United States,Real Estate,REIT - Office,12802370560,3097996032,-21458000,0.00784,62.825,3.245,2.811,North America,"Alexandria Real Estate Equities, Inc."
+COP,33.62,18.85,9.46,5.3,33.61,0.009999999999998,False,United States,Energy,Oil & Gas E&P,108008538112,59385999360,9155999744,0.1593,35.883,1.269,1.005,North America,ConocoPhillips
+SPG,13.31,4.24,4.32,4.75,13.31,0.0,False,United States,Real Estate,REIT - Retail,67176796160,6034414080,2112224000,0.73077005,838.545,0.375,0.375,North America,"Simon Property Group, Inc."
+JBL,8.59,2.83,2.61,3.15,8.59,0.0,False,United States,Technology,Electronic Components,22365327360,29802000384,657000000,0.40381,246.012,1.0,0.515,North America,Jabil Inc.
+BIIB,20.32,1.9,12.94,5.48,20.32,0.0,False,United States,Healthcare,Drug Manufacturers - General,20965885952,9996999680,1530499968,0.091309994,37.397,2.503,1.521,North America,Biogen Inc.
+MRK,16.66,2.78,8.93,4.96,16.669999999999998,-0.009999999999998,False,United States,Healthcare,Drug Manufacturers - General,211787055104,63616000000,16405999616,0.35421002,72.161,1.424,0.82,North America,"Merck & Co., Inc."
+ENTG,18.96,8.14,6.28,4.55,18.97,-0.0100000000000015,False,United States,Technology,Semiconductor Equipment & Materials,13768315904,3223108096,295487008,0.08083,106.487,3.298,1.689,North America,"Entegris, Inc."
+MPWR,17.13,4.74,5.7,6.69,17.130000000000003,-3.552713678800501e-15,False,United States,Technology,Semiconductors,48114700288,2543911936,1861309952,0.665,0.585,5.003,3.496,North America,"Monolithic Power Systems, Inc."
+COR,11.77,1.24,6.18,4.35,11.77,0.0,False,United States,Healthcare,Medical Distribution,62950211584,316654387200,1897255040,1.16705,459.175,0.905,0.497,North America,"Cencora, Inc."
+MAS,23.17,11.4,6.66,5.1,23.160000000000004,0.009999999999998,False,United States,Industrials,Building Products & Equipment,14209510400,7663000064,805000000,5.14458,2149.333,1.818,1.062,North America,Masco Corporation
+AMT,14.52,4.8,4.2,5.53,14.53,-0.0100000000000015,False,United States,Real Estate,REIT - Specialty,89571778560,10259600384,2501299968,0.24281,431.469,0.614,0.534,North America,American Tower Corporation
+AMD,11.62,3.21,3.77,4.64,11.62,-1.7763568394002505e-15,False,United States,Technology,Semiconductors,378252394496,29600000000,2729999872,0.04699,6.513,2.491,1.174,North America,"Advanced Micro Devices, Inc."
+LRCX,12.99,4.83,4.25,3.9,12.98,0.0099999999999997,False,United States,Technology,Semiconductor Equipment & Materials,178448678912,18435590144,5358217216,0.58238,48.233,2.21,1.487,North America,Lam Research Corporation
+CVS,15.28,0.1,11.93,3.25,15.28,0.0,False,United States,Healthcare,Healthcare Plans,104662286336,384328990720,4530999808,0.05881,106.67,0.803,0.582,North America,CVS Health Corporation
+WELL,11.51,4.24,2.95,4.33,11.52,-0.0099999999999997,False,United States,Real Estate,REIT - Healthcare Facilities,117104730112,9277824000,1129665024,0.0345,47.356,3.221,2.894,North America,Welltower Inc.
+UPS,19.27,6.15,8.87,4.26,19.28,-0.0100000000000015,False,United States,Industrials,Integrated Freight & Logistics,73238495232,90312998912,5729999872,0.34907,183.235,1.324,1.193,North America,"United Parcel Service, Inc."
+CARR,15.4,8.09,3.96,3.35,15.4,0.0,False,United States,Industrials,Building Products & Equipment,47827484672,22463000576,1536000000,0.11377,79.173,1.166,0.722,North America,Carrier Global Corporation
+ELV,7.44,0.09,4.04,3.31,7.439999999999999,8.881784197001252e-16,False,United States,Healthcare,Healthcare Plans,78535434240,189253992448,5360000000,0.124180004,68.838,1.445,1.319,North America,"Elevance Health, Inc."
+GM,24.21,12.45,7.55,4.2,24.2,0.0100000000000015,False,United States,Consumer Cyclical,Auto Manufacturers,55582306304,187599994880,6524000256,0.06955,200.191,1.218,0.965,North America,General Motors Company
+FSV,15.89,2.24,5.51,8.14,15.89,0.0,False,Canada,Real Estate,Real Estate Services,8347966464,5427949056,141910000,0.12303001,90.421,1.741,1.303,North America,FirstService Corporation
+NTR,32.98,19.12,9.62,4.24,32.980000000000004,-7.105427357601002e-15,False,Canada,Basic Materials,Agricultural Inputs,27899459584,25020999680,1363000064,0.05533,54.291,1.326,0.805,North America,Nutrien Ltd.
+OTEX,16.24,4.79,7.53,3.93,16.25,-0.0100000000000015,False,Canada,Technology,Software - Application,9925980160,5168404992,435868000,0.10727,169.087,0.801,0.73,North America,Open Text Corporation
+FTS,28.63,15.45,10.47,2.71,28.630000000000003,-3.552713678800501e-15,False,Canada,Utilities,Utilities - Regulated Electric,26046191616,11873000448,1699000064,0.07685,132.101,0.579,0.314,North America,Fortis Inc.
+MFC,13.34,0.7,7.0,5.64,13.34,0.0,False,Canada,Financial Services,Insurance - Life,53460475904,31253000192,5433999872,0.123909995,45.069,33.034,9.938,North America,Manulife Financial Corporation
+TRP,27.68,12.64,11.43,3.6,27.67,0.009999999999998,False,Canada,Energy,Oil & Gas Midstream,53478330368,14302000128,4247000064,0.12813,159.101,0.608,0.389,North America,TC Energy Corporation
+LULU,13.52,1.88,7.34,4.29,13.509999999999998,0.0100000000000015,False,Canada,Consumer Cyclical,Apparel Retail,19853010944,10904036352,1785750016,0.42422,40.178,2.266,0.832,North America,lululemon athletica inc.
+SPGI,13.96,2.01,6.2,5.75,13.96,0.0,False,United States,Financial Services,Financial Data & Stock Exchanges,144464904192,14700000256,4011000064,0.11291,31.651,0.982,0.807,North America,S&P Global Inc.
